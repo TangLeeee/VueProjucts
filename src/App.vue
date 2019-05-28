@@ -1,3 +1,6 @@
+<!-- 各种组件模板入口文件，在main.js中导入各种模板组件后，可直接拿来使用，
+也可以在script中按需导入，
+注意App.vue会替换掉<div id="app">的所有内容 -->
 <template>
   <div>
     <h1>这是app组件</h1>
