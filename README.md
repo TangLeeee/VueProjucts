@@ -1,6 +1,7 @@
 # myvueproject
 
-> A Vue.js project
+> 用来简单记录vue学习过程，参考b站链接https://www.bilibili.com/video/av27969216/?p=117
+> 用vue-cli创建项目的，建议看完基础后先看下路由分离那一节，要不然项目不好运行起来
 
 ## Build Setup
 
